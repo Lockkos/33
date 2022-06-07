@@ -1,0 +1,8 @@
+C:\Users\xxx\source\repos\executorrr\executorrr\obj\Debug\netcoreapp3.1\executorrr.csproj.AssemblyReference.cache
+C:\Users\xxx\source\repos\executorrr\executorrr\obj\Debug\netcoreapp3.1\executorrr.Form1.resources
+C:\Users\xxx\source\repos\executorrr\executorrr\obj\Debug\netcoreapp3.1\executorrr.Properties.Resources.resources
+C:\Users\xxx\source\repos\executorrr\executorrr\obj\Debug\netcoreapp3.1\executorrr.csproj.GenerateResource.cache
+C:\Users\xxx\source\repos\executorrr\executorrr\obj\Debug\netcoreapp3.1\executorrr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxx\source\repos\executorrr\executorrr\obj\Debug\netcoreapp3.1\executorrr.AssemblyInfoInputs.cache
+C:\Users\xxx\source\repos\executorrr\executorrr\obj\Debug\netcoreapp3.1\executorrr.AssemblyInfo.cs
+C:\Users\xxx\source\repos\executorrr\executorrr\obj\Debug\netcoreapp3.1\executorrr.csproj.CoreCompileInputs.cache

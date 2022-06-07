@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "executorrr": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
